@@ -6,4 +6,4 @@
 
 > Describe the contract you used for finding the movies to toggle in the DOM. How is this function different from other functions that find elements in the DOM?
 
-Your reply here...
+Your reply here...  I used querySelectorAll because it selects the contents of the parent and in this case it took the children"li" from the parent "lu"
